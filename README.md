@@ -1,7 +1,7 @@
 # sennheiserCopy
 copy of Sennheiser.pl website - html and css project
 view the site here:
-sennheiser-copy.netlify.app
+https://sennheiser-copy.netlify.app
 
 This project is first of my HTML and CSS projects.
 It copies the layout and style of senheiser poland website. 
